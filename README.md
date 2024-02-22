@@ -1,11 +1,14 @@
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 # Translator: Unlock Multilingual Power for Your Apps
-![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
 
 Welcome to Translator, the go-to solution for developers seeking to implement versatile multilingual support in their applications!
 
-- [Explore the Docs](https://grow.empress.eco/)
-- [Report Bug](https://github.com/empress-eco/translator/issues)
-- [Request Feature](https://github.com/empress-eco/translator/issues)
+[Explore the Docs](https://grow.empress.eco/) | [Report Bug](https://github.com/empress-eco/translator/issues) | [Request Feature](https://github.com/empress-eco/translator/issues)
+
+</div>
 
 ## About The Project
 Translator is a dynamic translation portal specifically designed for developers. With the ability to add new languages, efficiently update translations, and smoothly export translations into your applications, Translator equips you with powerful tools to enhance your app's multilingual capabilities.
